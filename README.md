@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=speech&color=gradient&height=300&section=header&text=Cat%20Programmer-nl-Leo's%20Home&fontSize=60)
-
+---
+[![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2FEnolaton?color=purple&label=hits&size=small)](https://myhits.vercel.app)
 ---
 
 # Stacks
