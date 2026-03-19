@@ -8,8 +8,6 @@
 
 </div>
 
----
-
 ## ⚙️ Stacks
 
 <p>
@@ -23,8 +21,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50"/>
 </p>
 
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -35,7 +31,6 @@
 
 </div>
 
----
 
 ## 🔥 Contribution
 
@@ -46,5 +41,3 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Enolaton&theme=tokyo-night"/>
 
 </div>
-
----
