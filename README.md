@@ -1,8 +1,8 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=speech&color=gradient&height=280&section=header&text=Leo's%20Dev%20Space&fontSize=55)
+![header](https://capsule-render.vercel.app/api?type=speech&color=gradient&height=280&section=header&text=Cat%20Programmer-nl-Leo's%20Home&fontSize=55)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome!+I'm+Leo;Junior+Programmer;Data+%26+Backend+Interested&fontSize=30&center=true&width=500&height=50)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome!+I'm+Leo;Nice+to+meet+you!;Data+%26+Backend+Interested&fontSize=30&center=true&width=500&height=50)](https://git.io/typing-svg)
 
 [![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2FEnolaton?color=purple&label=Profile%20Views&size=small)](https://myhits.vercel.app)
 
