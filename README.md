@@ -17,5 +17,19 @@
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Enolaton&show_icons=true&theme=tokyonight)
+
+## 💻 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Enolaton&layout=compact&theme=tokyonight)
+
+## 🔥 Streak
+![GitHub Streak](https://streak-stats.demolab.com/?user=Enolaton&theme=tokyonight)
+
+## 📈 Activity Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Enolaton&theme=tokyo-night)
+
+
 ---
 
