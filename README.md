@@ -25,7 +25,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Enolaton&show_icons=true&theme=tokyonight&count_private=true" height="150" vspace="30"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Enolaton&show_icons=true&theme=tokyonight&count_private=true" height="150" hspace="30"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enolaton&layout=compact&theme=tokyonight" height="150"/>
 
