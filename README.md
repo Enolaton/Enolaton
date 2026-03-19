@@ -25,7 +25,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Enolaton&show_icons=true&theme=tokyonight&count_private=true" height="150" hspace="30"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Enolaton&show_icons=true&theme=tokyonight&count_private=true" height="150" hspace="200"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enolaton&layout=compact&theme=tokyonight" height="150"/>
 
@@ -36,8 +36,8 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=Enolaton&theme=tokyonight" height="150" vspace="50"/>
+<img src="https://streak-stats.demolab.com/?user=Enolaton&theme=tokyonight" height="150"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Enolaton&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Enolaton&theme=tokyo-night" vspace="50"/>
 
 </div>
