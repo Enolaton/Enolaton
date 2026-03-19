@@ -10,13 +10,6 @@
 
 ---
 
-## 🧑‍💻 About Me
-- Junior Programmer  
-- Interested in **Data Analysis & Backend Systems**  
-- Focused on building practical and scalable solutions  
-
----
-
 ## ⚙️ Tech Stack
 
 ### 🖥 Backend / Language
@@ -67,12 +60,5 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Enolaton&theme=tokyo-night"/>
 
 </div>
-
----
-
-## 🚀 Goals
-- Build production-level backend systems  
-- Improve data processing & analysis skills  
-- Contribute to open-source projects  
 
 ---
