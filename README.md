@@ -21,6 +21,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50"/>
 </p>
 
+/*
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -30,7 +31,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enolaton&layout=compact&theme=tokyonight" height="150"/>
 
 </div>
-
+*/
 
 ## 🔥 Contribution
 
