@@ -1,6 +1,6 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Hello,%20World!%20👋_nl_I'm%20Leo%20|%20Cat%20Programmer&fontSize=40&fontColor=fff&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Hello,%20World!%20-nl-I'm%20Leo%20|%20Cat%20Programmer&fontSize=40&fontColor=fff&animation=fadeIn)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Backend%20Developer;Passionate%20about%20Clean%20Code;Let's%20build%20something%20awesome!;&fontSize=24&center=true&width=500&height=40&color=F0DB4F&font=Fira%20Code)](https://git.io/typing-svg)
 
@@ -32,16 +32,4 @@
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-</div>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Enolaton&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="150" hspace="20"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enolaton&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-
 </div>
