@@ -1,7 +1,7 @@
 
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=speech&color=gradient&height=300&section=header&text=Cat%20Programmer-nl-Leo%27s%20Home&fontSize=55&fontAlignY=30&align=center&descAlign=center)
+![header](https://capsule-render.vercel.app/api?type=speech&color=gradient&height=300&section=header&text=Cat%20Programmer-nl-Leo%27s%20Home&fontSize=55&fontAlignY=35&align=center&descAlign=center)
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome!+I'm+Leo;Nice+to+meet+you!;&fontSize=30&center=true&width=500&height=150)](https://git.io/typing-svg)
 <br/>
 [![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2FEnolaton?color=purple&label=Profile%20Views&size=small)](https://myhits.vercel.app)
