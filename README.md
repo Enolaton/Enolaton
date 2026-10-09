@@ -1,11 +1,14 @@
-<div align="center">
+# Hi, I’m a Software Developer
 
-[![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2FEnolaton?color=purple&label=Profile%20Views&size=small)](https://myhits.vercel.app)
+I’m a Computer Science graduate focused on building practical AI applications and reliable data pipelines. I’m also exploring robotics software and Physical AI through hands-on projects.
 
-</div>
+## Focus Areas
 
+* AI Engineering — Building LLM-powered applications, integrating AI models into services, and developing practical AI workflows.
+* Data Engineering & DataOps — Data collection, processing, database design, pipeline automation, and data quality validation.
+* Robotics & Physical AI — Exploring robotics software and AI systems that interact with the physical world.
 
-## ⚙️ Stacks
+## Tech Stacks
 <p>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" hspace="10"/>
