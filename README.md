@@ -1,12 +1,12 @@
 # Hi, I’m a Software Developer
 
-I’m a Computer Science graduate focused on building practical AI applications and reliable data pipelines. I’m also exploring robotics software and Physical AI through hands-on projects.
+I'm a Computer Software Engineering and Industrial Mathematics graduate focused on building practical AI applications and reliable data pipelines. I'm also exploring robotics software and Physical AI through hands-on projects.
 
 ## Focus Areas
 
-* AI Engineering — Building LLM-powered applications, integrating AI models into services, and developing practical AI workflows.
-* Data Engineering & DataOps — Data collection, processing, database design, pipeline automation, and data quality validation.
-* Robotics & Physical AI — Exploring robotics software and AI systems that interact with the physical world.
+* **AI Engineering** — Building LLM-powered applications, integrating AI models into software services, and developing practical AI workflows.
+* **Data Engineering & DataOps** — Building data pipelines, designing databases, and improving data quality and processing reliability.
+* **Robotics & Physical AI** — Developing robotics software and exploring AI systems that interact with the physical world.
 
 ## Tech Stacks
 <p>
